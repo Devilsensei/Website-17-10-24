@@ -1,0 +1,17 @@
+#container{
+    background:url(https://media.istockphoto.com/id/1428401936/photo/beautifull-background-on-a-christmas-theme-with-snowdrifts-snowfall-and-a-blurred-background.jpg?s=2048x2048&w=is&k=20&c=9aYJJHZHcqVUBVWlMHGVphKx_042yk6Xz_9UGrcSKuA=) ;
+    height: 50vh;
+    width: 100vw; 
+}
+
+.w3-dark-grey, .w3-hover-dark-grey:hover, .w3-dark-gray, .w3-hover-dark-gray:hover {
+    color: #fff !important;
+    background-color: #616161 !important;
+}
+.w3-padding-16 {
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+}
+.w3-center {
+    text-align: center !important;
+}
